@@ -4,6 +4,6 @@
   
   👽 I’m also learning Python, Go and SQL
   
-  🔥 And in my free time I like to ride my bike, surf and skate
+  🍃 And in my free time I like to ride my bike, surf and skate
   
   🌞 In sunny Barcelona
