@@ -6,4 +6,4 @@
   
   🍃 And in my free time I like to ride my bike, surf and skate
   
-  🌞 In sunny Barcelona
+  🌞 From São Paulo, based in sunny Barcelona
