@@ -1,14 +1,9 @@
   👋 Hi, I’m @ericafolli
   
-  👀 I’m interested in ...
+  🐙 As a Product Manager I’m interested in building better products for a better tomorrow
   
-  🌱 I’m currently learning ...
+  👽 I’m also learning Python, Go and SQL
   
-  💞️ I’m looking to collaborate on ...
+  🔥 And in my free time I like to ride my bike, surf and skate
   
-  📫 How to reach me ...
-
-<!---
-ericafolli/ericafolli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  🌞 In sunny Barcelona
