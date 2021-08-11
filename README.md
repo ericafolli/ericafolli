@@ -1,9 +1,9 @@
   👋 Hi, I’m @ericafolli
   
-  🐙 As a Product Manager, I love to build products that please users and businesses
+  🐙 I love to help amazing engineers to build successful products
   
   🛠 I’m also interested in learning more about Python, Go and SQL
   
   🍃 In my free time I like to ride my bike, surf and skate
   
-  🌞 Based in sunny Barcelona, work remotly
+  🌞 Based in sunny Barcelona, working remotly
